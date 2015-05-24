@@ -4,7 +4,7 @@ Important documents used across the Retrospring website.
 
 ## Localization
 
-To translate a specific document into your language (main site is not supporting this as of now), create a folder for your language based on [ISO-3166-1 alpha 2 country code standard](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) and place the translated document into the same structure as the original one.
+To translate a specific document into your language (main site is not supporting this as of now), create a folder for your language based on [ISO-639-1 language code standard](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) and place the translated document into the same structure as the original one.
 
 So `\en\policy\terms.md` becomes `\de\policy\terms.md` for example.
 
