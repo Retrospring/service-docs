@@ -13,12 +13,12 @@ The motivation header is the short text shown in the top of the questionbox on y
 ## 6. Will Retrospring be available in different languages?
 Yes, it sure will be! You'll just have to wait a bit, since we have to implement and change a lot of stuff before we can actually start adding other languages into Retrospring. If you want to help us translating the website, don't rush out yet, we will make an announcement when we start searching for people.
 ## 7. Can I format my questions/answers?
-You sure can! We use a customized version of markdown for this. Wrap your text in following ways to format it! `\*italic\*` or `\_italic\_`, `\*\*bold\*\*` or `\_\_bold\_\_` and `\~\~strikethrough\~\~`
+You sure can! We use a customized version of markdown for this. Wrap your text in following ways to format it! `*italic*` or `_italic_`, `**bold**` or `__bold__` and `~~strikethrough~~`
 
 You can also create lists with this method:
 ```
-\* item 1
-\* item 2
+* item 1
+* item 2
 ```
 
 Quotes? Here you go!:
@@ -27,6 +27,6 @@ Quotes? Here you go!:
 
 ```
 
-Don't like the formatting? You can escape it with prepending a `\` before the `\*`, `\_` or `\>`
+Don't like the formatting? You can escape it with prepending a `\` before the `*`, `_` or `>`
 ## 8. Is this open-source software?
 Yep! Retrospring runs [justask](https://github.com/nilsding/justask) an open source (AGPLv3) question and answer platform. If you want to contribute or report bugs you find in Retrospring, please look at our [Github repository!](https://github.com/retrospring/retrospring)!
