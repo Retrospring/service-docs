@@ -26,7 +26,6 @@ Quotes? Here you go!:
 
 ```
 > This is a quote from a famous person
-
 ```
 
 Don't like the formatting? You can escape it with prepending a `\` before the `*`, `_` or `>`
