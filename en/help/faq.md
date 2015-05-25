@@ -16,12 +16,14 @@ Yes, it sure will be! You'll just have to wait a bit, since we have to implement
 You sure can! We use a customized version of markdown for this. Wrap your text in following ways to format it! `*italic*` or `_italic_`, `**bold**` or `__bold__` and `~~strikethrough~~`
 
 You can also create lists with this method:
+
 ```
 * item 1
 * item 2
 ```
 
 Quotes? Here you go!:
+
 ```
 > This is a quote from a famous person
 
