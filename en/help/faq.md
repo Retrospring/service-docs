@@ -30,4 +30,4 @@ Quotes? Here you go!:
 
 Don't like the formatting? You can escape it with prepending a `\` before the `*`, `_` or `>`
 ## 8. Is this open-source software?
-Yep! Retrospring runs [justask](https://github.com/nilsding/justask) an open source (AGPLv3) question and answer platform. If you want to contribute or report bugs you find in Retrospring, please look at our [Github repository!](https://github.com/retrospring/retrospring)!
+Yep! Retrospring runs [justask](https://github.com/nilsding/justask) an open source (AGPLv3) question and answer platform. If you want to contribute or report bugs you find in Retrospring, please look at our [Github repository](https://github.com/retrospring/retrospring)!

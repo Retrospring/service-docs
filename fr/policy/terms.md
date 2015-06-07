@@ -36,4 +36,10 @@ Retrospring respecte les droits de propriété intellectuelle d'autrui et attend
 
 Nous nous réservons le droit de supprimer du contenu présumé contrefait, sans préavis, à notre seule discrétion, et sans responsabilité envers vous. Dans des circonstances appropriées, Retrospring sera également résilier le compte d'un utilisateur si l'utilisateur est déterminé à être un récidiviste.
 
-* Entrée en vigueur: le 10 mai 2015 *
+*Entrée en vigueur: le 10 mai 2015*
+
+<!-- Translated from en/policy/terms.md revision 7f6cd02e6efe2e78322ab9b651c32606f95695f4 -->
+
+<!-- WARNING: IN NO CASE SHALL THE TRANSLATED VERSION BE CONSIDERED AS THE MOST RELIABLE SOURCE OF THE TERMS OF SERVICE/PRIVACY POLICY. In case an updated version of the document is available in the English version or the translation might be incorrect, the English version should always be considered as the most reliable source of the document. -->
+
+<!-- ANY TRANSLATED NON-ENGLISH DOCUMENT IS CONSIDERED INVALID UNDER ANY CIRCUMSTANCE, AN ACCOMPANYING VALID ENGLISH WRITTEN DOCUMENT MUST BE PROVIDED AND CITED TO, IN NO CASE SHALL THE AUTHORS OR THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY RESULTING FROM ANY TRANSLATED NON-ENGLISH DOCUMENTS, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE RELATING SOFTWARE. -->

@@ -25,4 +25,10 @@ Vous pouvez également supprimer définitivement votre compte Retrospring avec u
 ## Notre politique à l'égard des enfants
 Nos services ne sont pas dirigés vers les personnes de moins de 14 ans. Si vous devenez conscient que votre enfant nous a fourni des informations personnelles sans votre consentement, nous contacter sur privacy@retrospring.net. Nous ne recueillons pas sciemment des renseignements personnels auprès d'enfants de moins de 14. Si nous devenons conscients qu'un enfant de moins de 14 nous a fourni des informations personnelles, nous prenons des mesures pour supprimer ces informations et résilier le compte de l'enfant.
 
-* Efficace: Le 16 Février 2015 *
+*Efficace: Le 16 Février 2015*
+
+<!-- Translated from en/policy/privacy.md revision 7f6cd02e6efe2e78322ab9b651c32606f95695f4 -->
+
+<!-- WARNING: IN NO CASE SHALL THE TRANSLATED VERSION BE CONSIDERED AS THE MOST RELIABLE SOURCE OF THE TERMS OF SERVICE/PRIVACY POLICY. In case an updated version of the document is available in the English version or the translation might be incorrect, the English version should always be considered as the most reliable source of the document. -->
+
+<!-- ANY TRANSLATED NON-ENGLISH DOCUMENT IS CONSIDERED INVALID UNDER ANY CIRCUMSTANCE, AN ACCOMPANYING VALID ENGLISH WRITTEN DOCUMENT MUST BE PROVIDED AND CITED TO, IN NO CASE SHALL THE AUTHORS OR THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY RESULTING FROM ANY TRANSLATED NON-ENGLISH DOCUMENTS, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE RELATING SOFTWARE. -->
