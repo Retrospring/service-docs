@@ -32,4 +32,4 @@ Citations? Comme cela!:
 
 Vous n'aimez pas le format? Vous pouvez vous en échapper en utilisant un `\` avant le `*`, `_` ou `>`
 ## 8. Le software, est-il open source?
-Oui! Retrospring utilise [ajustais](https://github.com/nilsding/justask) une plateformee de question reponse open source (AGPLv3). Si vous voulez contribuer ou signaller des bugs vous trouvez dans Retrospring, veuillez visitre notre [repository Github!](https://github.com/retrospring/retrospring)!
+Oui! Retrospring utilise [ajustais](https://github.com/nilsding/justask) une plateformee de question reponse open source (AGPLv3). Si vous voulez contribuer ou signaller des bugs vous trouvez dans Retrospring, veuillez visitre notre [repository Github](https://github.com/retrospring/retrospring)!
