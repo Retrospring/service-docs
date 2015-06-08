@@ -1,21 +1,21 @@
 ## 1. Qui a crée ce site et pourquoi?
-Retrospring a été fondée par nilsding et pixeldesu, initialement un script PHP mono-utilisateur, étant re-écrit en Python puis atteignant cette dernière itération écrit en Ruby. Il avait été crée avec comme but premier de ramener des aspects sociaux à répondre à des questions en ajoutant une autre couche au procédé, qui sont les commentaires. Beaucoup des foncionnalitées sont basée sur Formspring (maintenant connu sous le nom de Spring), qui est maintenant remplacée par ask.fm, que nous n'aimons pas car il vendent nos (et vos) données, et la censure.
+Retrospring a été fondé par nilsding et pixeldesu. Initialement un script PHP mono-utilisateur, depuis re-écrit en Python puis cette dernière itération écrite en Ruby. Retrospring a été créé avec comme but premier de ramener des aspects sociaux aux questions-réponses en ajoutant une autre fonctionnalité, les commentaires. Beaucoup des foncionnalités sont basées sur Formspring (maintenant connu sous le nom de Spring), qui a été supplanté par ask.fm, que nous n'aimons pas puisqu'ils vendent nos (et vos) données, et pratiquent la censure.
 ### 1.1 Pourquoi Retrospring?
-En premier, nous avons fait plusieurs sondages pour des nouveaux noms, mais personne n'avait de bonnes idées, donc no avons trouvée quelque chose de nouveau. Car le premier nom de projet (justask) allait causer des problèmes avec ask.com, car il détient beaucoup des noms de domaine autour de ajustais. Donc, nous nous sommes assis ensemble et Retrospring et venu dans nos esprits car on voulait ramener les anciennes foncionnalitées de Formspring a la vie d'une nouvelle manière! C'est aussi simple que ça.
+Tout d'abord, nous avons fait plusieurs sondages pour un nouveau noms, mais personne n'avait eu de bonne idée, donc nous avons choisi quelque chose de nouveau. Le premier nom de projet (justask) pouvait être source des problèmes avec ask.com, dans la mesure où ils détiennent la plupart des noms de domaine autour de justask. Donc, nous nous sommes assis autour d'une table et y avons réflechi. Le nom Retrospring est apparu dans nos esprits car on voulait ramener à la vie les anciennes foncionnalitées de Formspring d'une nouvelle manière! C'est aussi simple que ça.
 ## 2. Dois-je payer pour utiliser ce site?
-Non, Retrospring demeura gratuit. Vous pouvez par contre, si voulez supporter notre vision, allez sur notre [Patreon](https://www.patreon.com/retrospring)!
+Non, Retrospring demeurera gratuit. Vous pouvez par contre, si voulez soutenir notre vision, aller sur notre [Patreon](https://www.patreon.com/retrospring)!
 ## 3. Faites vous quelque chose avec nos données?
-Non. Nous ne les vendons pas a des tiers. Vos données ne laisse pas nos serveurs, car on en a besoin si un utilisateur fait quelque chose d'illégal, on a besoin de fournir leurs données ou au moins vérifier et valider nous mêmes. Mais rien d'autre que cela va se produire, comme vendre vos données précieuses a des
-grands méchants entreprises maléfiques.
+Non. Nous ne les vendons pas a des tiers. Vos données ne reste pas sur nos serveurs, nous en avons besoin si un utilisateur fait quelque chose d'illégal, nous nous verrons dans l'obligation de fournir leurs données ou au moins vérifier et valider le contenu nous mêmes. Mais rien d'autre que cela ne va se produire, comme vendre vos précieuses données a des
+grandes et méchantes corporations maléfiques.
 ## 4. Puis-je contribuer aux questions aléatoires?
-Vous en etez les bienvenus sur
+Vous en êtes les bienvenus sur
  [Github](https://github.com/retrospring/questiongenerator)!
 ## 5. Que sont les **en-tête de motivation**?
-L'en-tête de motivation est le petit texte en haut de votre boîte à questions sur votre profile, motivant un autre utilisateur a vous poser une question. Vous pouvez écrire se que vous souhaitiez, mais la meilleur façon serait d'inclure quelque chose comme "Demandez moi se que vous voulez!" ou si vous souhaitiez des question sure une chose particulière vous avez fait "Demandez mois se que vous souhaitiez sur mon projet X!" pour que les personnes savent quelles questions vous poser.
-## 6. retrospring sera t-il disponible en d'autres langes?
-Vous-vous attendiez a quoi?
+L'en-tête de motivation est le petit texte en haut de votre boîte à questions sur votre profil, motivant un autre utilisateur a vous poser une question. Vous pouvez écrire ce que vous souhaitez, mais la meilleure façon serait d'inclure quelque chose comme "Demandez moi ce que vous voulez!" ou si vous souhaitez des question sur une sujet en particulier, vous pouvez indiquer "Demandez mois ce que vous souhaitez sur mon projet X!" pour que les utilisateurs sachent quelles questions vous poser.
+## 6. Retrospring sera t-il disponible dans d'autres langues?
+Maintenant oui!
 ## 7. Puis-je formater mes questions/réponses?
-Bien sur! Nous utilisons une version modifie de markdown pour cela. Enveloppez votre texte des façons suivantes pour le formater! `*italique*` or `_italique_`, `**gras**` or `__gras__` and `~~barré~~`
+Bien sûr! Nous utilisons une version modifiée de markdown pour cela. Enveloppez votre texte des façons suivantes pour le formater! `*italique*` ou `_italique_`, `**gras**` ou `__gras__` and `~~barré~~`
 
 Vous pouvez aussi créer des listes de cette façon.
 
@@ -24,15 +24,15 @@ Vous pouvez aussi créer des listes de cette façon.
 * article 2
 ```
 
-Citations? Comme cela!:
+Des citations? Comme cela!:
 
 ```
 > Ceci est une citation d'une célébrité
 ```
 
-Vous n'aimez pas le format? Vous pouvez vous en échapper en utilisant un `\` avant le `*`, `_` ou `>`
-## 8. Le software, est-il open source?
-Oui! Retrospring utilise [ajustais](https://github.com/nilsding/justask) une plateformee de question reponse open source (AGPLv3). Si vous voulez contribuer ou signaller des bugs vous trouvez dans Retrospring, veuillez visitre notre [repository Github](https://github.com/retrospring/retrospring)!
+Vous ne souhaitez pas formater votre texte? Vous pouvez le désactiver temporairement en utilisant un `\` avant le `*`, `_` ou `>`
+## 8. Le logiciel, est-il open source?
+Oui! Retrospring utilise [justask](https://github.com/nilsding/justask) une plateforme de questions-réponses open source (AGPLv3). Si vous voulez contribuer ou signaler des bugs que vous trouvez dans Retrospring, visitez notre [repo Github](https://github.com/retrospring/retrospring)!
 
 <sup>
 Translated from en/policy/faq.md revision 7f6cd02e6efe2e78322ab9b651c32606f95695f4
